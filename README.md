@@ -47,7 +47,7 @@ A total of 14 business questions were answered using Pivot Tables and formulas:
 A full dashboard was created in Excel featuring: All the questions answered
 
 ## [Dashboard Preview]
-![Dashboard Screenshot](dashboard%20a.png)
+![Dashboard Screenshot](DASHBOARD%20A.PNG)
 
 
 
